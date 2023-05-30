@@ -1,0 +1,9 @@
+/* Available DLC ad under game activity in the library */
+[class*="appactivitydlc_Rollup_"] {
+     display: none !important;
+}
+
+/* Game pre-order advertisement on the library home page */
+[class*="libraryhomegamereleased_PrePurchaseContainer_"] {
+     display: none !important;
+}
