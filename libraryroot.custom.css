@@ -1,3 +1,5 @@
+/* Ad blocking for the Steam library */
+
 /* Available DLC ad under game activity in the library */
 [class*="appactivitydlc_Rollup_"] {
      display: none !important;
