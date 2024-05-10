@@ -1,11 +1,13 @@
 /* Ad blocking for the Steam library */
 
 /* Available DLC ad under game activity in the library */
-[class*="appactivitydlc_Rollup_"] {
+/*[class*="appactivitydlc_Rollup_"]*/
+._2UySYiE8fUGGugkHVm1Qb {
      display: none !important;
 }
 
 /* Game pre-order advertisement on the library home page */
-[class*="libraryhomegamereleased_PrePurchaseContainer_"] {
+/* [class*="libraryhomegamereleased_PrePurchaseContainer_"] */
+._2Ae5emb7JLG4NvS2OmutTx {
      display: none !important;
 }
